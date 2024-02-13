@@ -1,0 +1,562 @@
+[
+  {
+    "id": 0,
+    "location": "new york city",
+    "country": "united states",
+    "continent": "north america",
+    "about": "New York, the city that never sleeps, is an electrifying global hub renowned for its towering skyline, iconic landmarks like the Statue of Liberty, and the cultural mecca of Broadway. Central Park's green oasis contrasts with the vibrant chaos of Times Square, reflecting the city's dynamic spirit and diverse neighborhoods like Harlem and Chinatown.",
+    "attractions": [
+      {
+        "title": "Central Park",
+        "content": "An urban oasis in the heart of Manhattan with scenic landscapes, recreational activities, and cultural landmarks."
+      },
+      {
+        "title": "Times Square",
+        "content": "A symbol of entertainment and excitement, it's a vibrant hub where Broadway meets global brands."
+      },
+      {
+        "title": "Statue of Liberty",
+        "content": "A beacon of freedom, the Statue of Liberty stands tall in New York Harbor."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 1,
+    "location": "toronto",
+    "country": "canada",
+    "continent": "north america",
+    "about": "Toronto, Canada's cosmopolitan gem, boasts the iconic CN Tower and eclectic neighborhoods like Queen Street West. The Royal Ontario Museum and Art Gallery of Ontario showcase cultural richness, while the Distillery District preserves Victorian charm, making it a cultural and artistic hub.",
+    "attractions": [
+      {
+        "title": "CN Tower",
+        "content": "Defining Toronto's skyline, the CN Tower offers panoramic views from its observation deck."
+      },
+      {
+        "title": "Royal Ontario Museum",
+        "content": "The Royal Ontario Museum explores world cultures, natural history, and art."
+      },
+      {
+        "title": "Ripley's Aquarium",
+        "content": "Home to sharks and vibrant coral reefs, it's an educational and entertaining destination for all ages."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "location": "mexico city",
+    "country": "mexico",
+    "continent": "north america",
+    "about": "Mexico City, a captivating fusion of ancient and modern, unveils Aztec ruins like Teotihuacan alongside contemporary art in its many galleries. Chapultepec Park, one of the world's largest city parks, hosts the National Museum of Anthropology, offering a deep dive into Mexican history and culture.",
+    "attractions": [
+      {
+        "title": "Teotihuacan",
+        "content": "Teotihuacan, an ancient city near Mexico City, unveils the mysteries of Mesoamerican civilizations."
+      },
+      {
+        "title": "Chapultepec Castle",
+        "content": "Perched on Chapultepec Hill, the castle overlooks Mexico City, housing the National Museum of History. Rich in cultural heritage, it offers stunning city views."
+      },
+      {
+        "title": "Frida Kahlo Museum",
+        "content": "Step into Frida Kahlo's world at La Casa Azul. Her childhood home turned museum showcases her art, personal artifacts, and extraordinary life."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "location": "san francisco",
+    "country": "united states",
+    "continent": "north america",
+    "about": "San Francisco, perched on iconic hills, is celebrated for the Golden Gate Bridge, Alcatraz Island, and diverse neighborhoods like Haight-Ashbury. The city's tech prowess in Silicon Valley complements its cultural tapestry, creating a unique blend of innovation and historical charm.",
+    "attractions": [
+      {
+        "title": "Golden Gate Bridge",
+        "content": "A marvel of engineering, the Golden Gate Bridge's orange towers span San Francisco Bay. It's an iconic symbol of the city with breathtaking views."
+      },
+      {
+        "title": "Alcatraz Island",
+        "content": "Known for its infamous prison, Alcatraz Island blends history and mystery. Visitors explore the prison, learn about notorious inmates, and enjoy natural beauty."
+      },
+      {
+        "title": "San Francisco Trolley",
+        "content": "Ride the historic cable cars in San Francisco for a nostalgic experience. Climbing steep hills, they offer scenic views—a quintessential San Francisco adventure."
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "location": "los angeles",
+    "country": "united states",
+    "continent": "north america",
+    "about": "Los Angeles, the entertainment capital, features Hollywood's glamour with the Walk of Fame and iconic studios. From the beach allure of Santa Monica to the artistic richness of the Getty Center, LA is a sprawling metropolis where diverse cultures and industries converge.",
+    "attractions": [
+      {
+        "title": "Hollywood Sign",
+        "content": "Perched in the Hollywood Hills, the iconic sign symbolizes Hollywood's allure. It's a beacon of the entertainment industry and Los Angeles glamour."
+      },
+
+      {
+        "title": "Santa Monica Pier",
+        "content": "A historic landmark, Santa Monica Pier combines amusement park fun with Pacific Ocean views. Its Ferris wheel and bustling boardwalk make it a lively coastal destination."
+      },
+
+      {
+        "title": "Walk of Fame",
+        "content": "Stroll the Hollywood Walk of Fame, honoring entertainment legends. This sidewalk tribute celebrates actors, musicians, and cultural icons in the heart of Hollywood."
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "location": "miami",
+    "country": "united states",
+    "continent": "north america",
+    "about": "Miami, a tropical paradise, lures with South Beach's glamorous Art Deco architecture. Little Havana immerses in Latin influences, contributing to a vibrant nightlife and a culinary scene reflecting the city's multiculturalism. The Magic City is a dynamic fusion of sun-soaked beaches, cultural diversity, and a pulsating urban energy.",
+    "attractions": [
+      {
+        "title": "South Beach",
+        "content": "Relax on sandy shores, explore Ocean Drive's nightlife, and soak up the sun."
+      },
+      {
+        "title": "Art Deco District",
+        "content": "Miami's Art Deco Historic District showcases pastel-hued buildings from the 1930s. Stroll along Ocean Drive to admire this architectural gem in South Beach."
+      },
+      {
+        "title": "Florida Keys",
+        "content": "A tropical paradise, the Florida Keys offer a string of coral cays connected by the scenic Overseas Highway. Crystal-clear waters and laid-back charm define this Caribbean haven."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "location": "buenos aires",
+    "country": "argentina",
+    "continent": "south america",
+    "about": "Buenos Aires, Argentina's capital, exudes a rich cultural heritage with tango music echoing through historic neighborhoods like San Telmo. The iconic Obelisco and Casa Rosada adorn the cityscape, while Recoleta Cemetery hosts ornate mausoleums. The lively street markets and delectable Argentine cuisine create an atmosphere of passion and flair.",
+    "attractions": [
+      {
+        "title": "Rosa Cosada",
+        "content": "Known as the Pink House, Rosa Cosada is the official residence and workplace of the President of Argentina."
+      },
+      {
+        "title": "Obelisk de Buenos Aires",
+        "content": "The Obelisk stands proudly in the heart of Buenos Aires, symbolizing the city's resilience and history"
+      },
+      {
+        "title": "Puente de Mujeres",
+        "content": "Puente de Mujeres is a modern pedestrian bridge in Puerto Madero. Its unique design, resembling the curves of a couple dancing tango, adds an artistic touch to the waterfront."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "location": "rio de janeiro",
+    "country": "brazil",
+    "continent": "south america",
+    "about": "Rio de Janeiro, Brazil's sizzling coastal jewel, captivates with the iconic Christ the Redeemer statue atop Corcovado Mountain and the vibrant Carnival celebrations. Copacabana and Ipanema beaches offer a stunning backdrop to the city's lively energy, with samba rhythms echoing through the streets.",
+    "attractions": [
+      {
+        "title": "Sugarloaf Mountain",
+        "content": "Iconic granite peak offering panoramic views of Rio and its famous beaches."
+      },
+      {
+        "title": "Christ the Redeemer",
+        "content": "A colossal statue atop Corcovado Mountain, watches over Rio de Janeiro. An iconic symbol of Brazil, its outstretched arms embrace the city, offering breathtaking views and spiritual significance."
+      },
+      {
+        "title": "Copacabana Beach",
+        "content": "A world-renowned stretch of golden sand, known for its lively atmosphere."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 8,
+    "location": "bogota",
+    "country": "colombia",
+    "continent": "south america",
+    "about": "Bogotá, Colombia's capital, balances modernity with colonial charm. La Candelaria's narrow streets reveal colorful houses and historical landmarks like Bolivar Square. The Gold Museum showcases indigenous treasures, while the city's altitude provides panoramic views from Monserrate.",
+    "attractions": [
+      {
+        "title": "Cathedral of Zipaquirá",
+        "content": "An underground marvel carved from salt, displaying stunning sculptures and chapels."
+      },
+      {
+        "title": "Monserrate Hill",
+        "content": "A mountain offering breathtaking views of Bogotá, reached by funicular or hiking."
+      },
+      {
+        "title": "Usaquén",
+        "content": "Quaint district with colonial architecture, a bustling market, and charming cafes."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "location": "sao paulo",
+    "country": "brazil",
+    "continent": "south america",
+    "about": "São Paulo, Brazil's bustling metropolis, pulsates with a vibrant cultural scene. The São Paulo Museum of Art and Ibirapuera Park stand out amid the skyscrapers. The diverse neighborhoods, such as Vila Madalena, offer eclectic street art, while the city hosts renowned gastronomy and lively nightlife.",
+    "attractions": [
+      {
+        "title": "Ibirapuera Park",
+        "content": "A sprawling urban park featuring lakes, museums, and green spaces for leisure and cultural activities."
+      },
+      {
+        "title": "São Paulo Museum of Art",
+        "content": "An architectural gem showcasing a diverse art collection."
+      },
+      {
+        "title": "Beco do Batman",
+        "content": "A dynamic street covered in vibrant graffiti and street art."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "location": "santiago",
+    "country": "chile",
+    "continent": "south america",
+    "about": "Santiago, Chile's capital, nestles in the Andes, offering a stunning backdrop. The historic Plaza de Armas, surrounded by the Metropolitan Cathedral, and the bohemian Bellavista district exemplify the city's architectural and artistic diversity. Santiago seamlessly blends urban sophistication with natural beauty.",
+    "attractions": [
+      {
+        "title": "Valle Nevado",
+        "content": "A premier ski destination with stunning mountain landscapes."
+      },
+      {
+        "title": "Santa Rita Vineyard",
+        "content": "Explore Chile's winemaking heritage in this picturesque vineyard."
+      },
+      {
+        "title": "Costanera Center",
+        "content": "The tallest building in South America, offering panoramic views of Santiago."
+      }
+    ]
+  },
+
+  {
+    "id": 11,
+    "location": "amsterdam",
+    "country": "netherlands",
+    "continent": "europe",
+    "about": "Amsterdam, Netherlands' enchanting capital, charms with its iconic canals, historic houses, and vibrant neighborhoods like Jordaan. Renowned for its cultural richness, the Rijksmuseum and Van Gogh Museum house masterpieces. The city's liberal atmosphere is evident in the Red Light District and cannabis cafes, while cyclists navigate picturesque streets.",
+    "attractions": [
+      {
+        "title": "Keukenhof Gardens",
+        "content": "A floral paradise, bursts into bloom each spring. Renowned as the Garden of Europe, Keukenhof showcases millions of vibrant tulips, daffodils, and hyacinths, creating a breathtaking kaleidoscope of colors."
+      },
+      {
+        "title": "Amsterdam Canals",
+        "content": "Iconic canals weave through the city, offering picturesque views of historic architecture."
+      },
+      {
+        "title": "Heineken Experience",
+        "content": "Housed in the historic brewery, it combines interactive exhibits, beer tastings, and the chance to explore Heineken's brewing process and heritage."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "location": "rome",
+    "country": "italy",
+    "continent": "europe",
+    "about": "Rome, Italy's eternal city, boasts a treasure trove of ancient wonders. The Colosseum, Roman Forum, and Pantheon narrate tales of antiquity, while Vatican City hosts St. Peter's Basilica and the Sistine Chapel. Rome's timeless allure extends to its delectable cuisine and charming piazzas.",
+    "attractions": [
+      {
+        "title": "Trevi Fountain",
+        "content": "A Baroque masterpiece in Rome, mesmerizes with its grandeur and mythological sculptures."
+      },
+      {
+        "title": "Colosseum",
+        "content": "The Colosseum, Rome's iconic amphitheater, stands as a symbol of ancient Roman engineering and gladiatorial contests."
+      },
+      {
+        "title": "Vatican City",
+        "content": "Vatican City, the world's smallest independent state, boasts St. Peter's Basilica and the Vatican Museums. This spiritual and cultural hub houses masterpieces like the Sistine Chapel."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 13,
+    "location": "madrid",
+    "country": "spain",
+    "continent": "europe",
+    "about": "Madrid, Spain's dynamic capital, emanates a lively spirit. The Prado Museum exhibits masterpieces, while the Royal Palace and Retiro Park showcase grandeur. Madrid's culinary scene, from tapas bars to gourmet restaurants, complements its vibrant nightlife.",
+    "attractions": [
+      {
+        "title": "El Retiro Park",
+        "content": "Madrid's El Retiro Park offers a tranquil escape with beautiful gardens, serene lakes, and notable landmarks like the Crystal Palace."
+      },
+      {
+        "title": "Puerta del Sol",
+        "content": "Serves as Spain's geographical center and a bustling public square. Home to the iconic clock tower and the symbolic kilometer zero, it's a vibrant hub for events and celebrations."
+      },
+      {
+        "title": "Thyssen-Bornemisza Museum",
+        "content": "houses an extensive art collection, spanning centuries and styles. With works by renowned artists, it offers a rich cultural experience in the heart of Spain's capital."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "location": "lisbon",
+    "country": "portugal",
+    "continent": "europe",
+    "about": "Lisbon, Portugal's coastal gem, reveals a captivating blend of historic charm and modern vitality. The cobbled streets of Alfama lead to São Jorge Castle, while Belém boasts the iconic Tower of Belém. Fado music wafts through the air, and panoramic views await at viewpoints like Miradouro da Senhora do Monte.",
+    "attractions": [
+      {
+        "title": "Belem Tower",
+        "content": "The Belem Tower's architecture and strategic location along the Tagus River make it a symbol of Portugal's Age of Discovery."
+      },
+      {
+        "title": "Alfama District",
+        "content": "Historic quarter, captivates with narrow streets, colorful houses, and Fado music. It preserves the city's medieval charm, inviting exploration of its cultural heritage."
+      },
+      {
+        "title": "Jerónimos Monastery",
+        "content": "The Jerónimos Monastery in Lisbon showcases Manueline architecture and intricate ornamentation. It reflects Portugal's maritime glory and is a tribute to the Age of Discoveries."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "location": "london",
+    "country": "england",
+    "continent": "europe",
+    "about": "London, the UK's cosmopolitan capital, epitomizes diversity. The British Museum and Buckingham Palace stand alongside trendy neighborhoods like Shoreditch. The River Thames meanders past landmarks like the Tower of London, while West End theaters and Hyde Park add to the city's cultural tapestry.",
+    "attractions": [
+      {
+        "title": "London Eye",
+        "content": "A giant observation wheel on the South Bank of the Thames, offers panoramic views of London. Riding its capsules provides a breathtaking experience of the city's skyline."
+      },
+      {
+        "title": "Big Ben",
+        "content": "The iconic clock tower at the Palace of Westminster in London, is a symbol of the city. Its grandeur and timeless presence make it a landmark to admire."
+      },
+      {
+        "title": "London Bridge",
+        "content": "Spanning the River Thames, links the city's historic past to its modern skyline. With its rich history and scenic views, it remains an integral part of London's identity."
+      }
+    ]
+  },
+
+  {
+    "id": 16,
+    "location": "paris",
+    "country": "france",
+    "continent": "europe",
+    "about": "Paris, France's romantic capital, captivates with the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral. The artistic Montmartre district exudes bohemian charm, and the Seine River winds through iconic landmarks. Parisian cafes, haute couture boutiques, and world-class art make it a timeless destination.",
+    "attractions": [
+      {
+        "title": "Eiffel Tower",
+        "content": "Paris's quintessential landmark, stands as a testament to engineering and romance."
+      },
+      {
+        "title": "Louvre Museum",
+        "content": "The Louvre in Paris, the world's largest art museum, houses a vast collection, including the Mona Lisa."
+      },
+      {
+        "title": "Notre-Dame Cathedral",
+        "content": "A Gothic masterpiece, boasts stunning architecture and religious significance."
+      }
+    ]
+  },
+
+  {
+    "id": 17,
+    "location": "kyoto",
+    "country": "japan",
+    "continent": "asia",
+    "about": "Kyoto, Japan's cultural heart, preserves ancient traditions amidst modernity. Temples like Kinkaku-ji and Fushimi Inari Shrine showcase architectural splendor. Geishas grace the historic Gion district, while the Arashiyama Bamboo Grove offers a serene retreat. Kyoto's tea ceremonies and cherry blossoms evoke timeless beauty.",
+    "attractions": [
+      {
+        "title": " Kinkaku-ji",
+        "content": "A Zen Buddhist temple famous for its stunning gold leaf exterior, surrounded by beautiful gardens."
+      },
+      {
+        "title": "Fushimi Inari Taisha",
+        "content": "An important Shinto shrine known for its thousands of torii gates forming a path up the sacred Mount Inari."
+      },
+      {
+        "title": "Arashiyama Bamboo Grove",
+        "content": "A picturesque bamboo forest in the Arashiyama district, known for its enchanting and serene atmosphere."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "location": "tokyo",
+    "country": "japan",
+    "continent": "asia",
+    "about": "Tokyo, Japan's bustling capital, seamlessly blends tradition and innovation. Neon-lit districts like Shibuya and Akihabara pulse with energy, while historic temples like Senso-ji provide tranquility. Tokyo Disneyland and the Skytree add to the city's modern allure, making it a dynamic metropolis.",
+    "attractions": [
+      {
+        "title": "Tokyo Disneyland",
+        "content": "A world-renowned theme park featuring classic Disney attractions, parades, and entertainment."
+      },
+      {
+        "title": "Senso-ji Temple",
+        "content": "Tokyo's oldest temple, with a Thunder Gate, shopping street, and the main hall dedicated to the Buddhist goddess Kannon."
+      },
+      {
+        "title": "Tokyo Tower",
+        "content": "A symbol of Tokyo's modernity, the tower is a popular attraction, lit up at night to enhance the city's skyline."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 19,
+    "location": "shanghai",
+    "country": "china",
+    "continent": "asia",
+    "about": "Shanghai, China's cosmopolitan gem, dazzles with futuristic skyscrapers and historic charm along the Bund. The Shanghai Tower and Oriental Pearl Tower define the skyline, while the French Concession preserves colonial-era architecture. Shanghai's vibrant markets, culinary scene, and traditional gardens reflect its rich heritage.",
+    "attractions": [
+      {
+        "title": "The Bund",
+        "content": "A historic waterfront area along the Huangpu River, showcasing a mix of European and modern architecture."
+      },
+      {
+        "title": "Oriental Pearl Tower",
+        "content": "An iconic landmark offering panoramic views of Shanghai from its distinctive futuristic design."
+      },
+      {
+        "title": " Yuyuan Garden",
+        "content": "A classical Chinese garden with traditional architecture, pavilions, and scenic landscapes."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "location": "dubai",
+    "country": "united arab emirates",
+    "continent": "asia",
+    "about": "Dubai, United Arab Emirates' glamorous city, epitomizes opulence and modernity. Burj Khalifa, the world's tallest building, dominates the skyline, and Palm Jumeirah showcases architectural innovation. Luxury shopping in Dubai Mall, desert safaris, and the iconic Burj Al Arab contribute to the city's allure as a global hub.",
+    "attractions": [
+      {
+        "title": "Burj Khalifa",
+        "content": "The world's tallest skyscraper, offering breathtaking views of the city and beyond from its observation decks."
+      },
+      {
+        "title": "The Dubai Mall",
+        "content": " A massive shopping and entertainment complex featuring numerous shops, restaurants, and attractions like an indoor ice rink and aquarium."
+      },
+      {
+        "title": "Palm Jumeirah",
+        "content": "An artificial archipelago shaped like a palm tree, known for luxury resorts, beaches, and upscale living."
+      }
+    ]
+  },
+
+  {
+    "id": 21,
+    "location": "cape town",
+    "country": "south africa",
+    "continent": "africa",
+    "about": "Nestled beneath Table Mountain, Cape Town, South Africa, boasts stunning landscapes and cultural diversity. Robben Island, a UNESCO World Heritage Site, symbolizes the struggle against apartheid. The Victoria & Alfred Waterfront offers a vibrant atmosphere, while the Cape Winelands showcase world-class vineyards. Pristine beaches and the Cape of Good Hope complete this scenic city.",
+    "attractions": [
+      {
+        "title": "Table Mountain",
+        "content": "A flat-topped mountain providing stunning views of Cape Town and the surrounding area"
+      },
+      {
+        "title": "Robben Island",
+        "content": "A historic island where Nelson Mandela was imprisoned, now a museum offering insights into South Africa's history."
+      },
+      {
+        "title": "V&A Waterfront",
+        "content": "A bustling waterfront area with shops, restaurants, and attractions, overlooking the harbor."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 22,
+    "location": "cairo",
+    "country": "egypt",
+    "continent": "africa",
+    "about": "Cairo, Egypt's bustling capital, blends ancient wonders with modern vitality. The Pyramids of Giza and Sphinx stand as iconic symbols of ancient Egypt. The Egyptian Museum houses treasures from pharaonic times. Cairo's chaotic markets, vibrant street life, and Islamic Cairo's historic mosques create a captivating tapestry.",
+    "attractions": [
+      {
+        "title": "Giza Pyramids",
+        "content": "Ancient wonders featuring the Great Pyramid of Giza, the Sphinx, and other pyramids."
+      },
+      {
+        "title": "Egyptian Museum",
+        "content": "A renowned museum showcasing an extensive collection of ancient Egyptian artifacts and treasures."
+      },
+      {
+        "title": " Khan El Khalili Bazaar",
+        "content": "A vibrant and historic market where visitors can shop for traditional crafts, spices, and jewelry."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "location": "johannesburg",
+    "country": "south africa",
+    "continent": "africa",
+    "about": "Johannesburg, South Africa's economic powerhouse, boasts a dynamic urban landscape. Apartheid Museum and Constitution Hill reflect the nation's history. Maboneng Precinct's street art and Soweto's vibrant culture showcase the city's resilience. The Cradle of Humankind, a UNESCO site, preserves ancient fossils, highlighting Johannesburg's significance.",
+    "attractions": [
+      {
+        "title": "Apartheid Museum",
+        "content": "A museum chronicling the history of apartheid in South Africa, providing a powerful and educational experience."
+      },
+      {
+        "title": "Cradle of Humankind",
+        "content": " A UNESCO World Heritage Site with caves containing hominid fossils, offering insights into human evolution."
+      },
+      {
+        "title": "Lion & Safari Park",
+        "content": "A wildlife park where visitors can see lions, giraffes, and other animals in a natural setting."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "location": "sydney",
+    "country": "austrailia",
+    "continent": "austrailia",
+    "about": "Sydney, Australia's iconic harbor city, harmonizes urban sophistication with natural beauty. The Sydney Opera House and Harbour Bridge define the skyline, while Bondi Beach offers a coastal retreat. The Royal Botanic Garden and Taronga Zoo provide lush escapes, reflecting Sydney's outdoor lifestyle.",
+    "attractions": [
+      {
+        "title": "Sydney Opera House",
+        "content": "A distinctive architectural marvel hosting various performing arts events and overlooking Sydney Harbour."
+      },
+      {
+        "title": "Sydney Harbour Bridge",
+        "content": "An iconic bridge offering panoramic views of the city and harbor, with opportunities for bridge climbs."
+      },
+      {
+        "title": "Bondi Beach",
+        "content": "A famous coastal area known for its golden sand, surfing culture, and vibrant beachside atmosphere."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 25,
+    "location": "melbourne",
+    "country": "austrailia",
+    "continent": "austrailia",
+    "about": "Melbourne, Australia's cultural hub, celebrates art, coffee, and diverse neighborhoods. Federation Square hosts cultural events, while street art adorns laneways like Hosier Lane. Melbourne's coffee culture, vibrant markets, and the Melbourne Cricket Ground contribute to its eclectic charm.",
+    "attractions": [
+      {
+        "title": "Royal Botanic Gardens",
+        "content": "A beautiful garden featuring a diverse collection of plants, landscapes, and walking paths."
+      },
+      {
+        "title": "Federation Square",
+        "content": "A cultural and entertainment precinct with museums, galleries, and outdoor spaces for events."
+      },
+      {
+        "title": "Melbourne Cricket Ground",
+        "content": "A historic sports stadium, known for hosting cricket matches and other major events."
+      }
+    ]
+  }
+]
